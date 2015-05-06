@@ -21,3 +21,5 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 
 # 3D Print
+* [GROT board game](https://github.com/stxnext/grot-board-game) - GROT (ang. arrowhead) is a logic game about making the most valuable chains possible.
+* [Dueling Masters of Space Time](https://github.com/smcameron/dueling-masters-of-space-time) - This game is a two player strategy board game. 
