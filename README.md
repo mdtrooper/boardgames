@@ -17,8 +17,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 -------
 
 # Print and Play
-
-
+* [Delta game](https://gist.github.com/brannondorsey/5d17c6a85d3408199efa) - It is a abstract game for two player with the triangles pieces.
 
 # 3D Print
 * [GROT board game](https://github.com/stxnext/grot-board-game) - GROT (ang. arrowhead) is a logic game about making the most valuable chains possible.
